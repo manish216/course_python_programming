@@ -4,7 +4,7 @@
 This repository contains all the scripts from python course.
 ## Links
 
-[Documentation](https://linktodocumentation)
+[interview Questions reference](https://github.com/DopplerHQ/awesome-interview-questions?tab=readme-ov-file#python)
 
 
 ## Lessons Learned
